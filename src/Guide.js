@@ -23,7 +23,7 @@ const Example = (props) => {
         <Card body>
          <h4><CardTitle>STEP 2</CardTitle></h4>
           <CardText>Choose the operator</CardText>
-          <Button color="success">Go the result</Button>
+          <Button color="success">Get the result</Button>
         </Card>
       </Col>
      
